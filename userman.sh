@@ -102,7 +102,7 @@ removeuser() {
 	echo "------------------------------"
 	echo
 	read -p "Yeni kullanıcının kullanıcı adı nedir? (İptal etmek için u! Yazın)" username_del
-	if [ "$username_del" = "c!" ]; then
+	if [ "$username_del" = "u!" ]; then
 		clear
 		mainmenu
 	fi
