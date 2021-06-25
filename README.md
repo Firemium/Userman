@@ -4,4 +4,5 @@ Kurulum => git clone https://github.com/Firemium/Userman
 
 # Developer
 
-Ömer Tevfik Çelik
+Ömer Tevfik Çelik | omertevfik35@gmail.com
+
